@@ -17,8 +17,8 @@ completed, you can get additional information that was not available during
 the run. This includes run time, memory used, etc.
 
 ..
-From our monitoring tool Ganglia, you can watch live status information on Dilhan:
-.. *  `Load situation <http://144.122.31.1/ganglia/>`_
+  From our monitoring tool Ganglia, you can watch live status information on Dilhan:
+  *  `Load situation <http://144.122.31.1/ganglia/>`_
 
 
 
