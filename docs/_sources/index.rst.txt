@@ -3,13 +3,14 @@ Welcome to METU Physics HPC's documentation!
 ============================================
 
 
-:ref:`Dilhan <about_dilhan>` is the local computer cluster of METU Physics department. If you are new here, you might want to learn the basics first here:
+METU Physics have two accessible clusters. :ref:`Dilhan <about_dilhan>` and :ref:`nano <about_nano>`.  If you are new here, you might want to learn the basics first here:
 
 
 .. toctree::
    :maxdepth: 1
 
    introduction/getting_started
+   introduction/guidelines
 .. news/news
 
 
@@ -29,10 +30,10 @@ Welcome to METU Physics HPC's documentation!
 .. General sections
 .. toctree::
    :maxdepth: 1
-   :caption: Dilhan
+   :caption: Clusters
 
    dilhan/dilhan
-   introduction/guidelines
+   nano/nano
 
 
 .. Account section
